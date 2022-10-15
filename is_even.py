@@ -2,6 +2,4 @@
 
 #Print 1 if the number is even, otherwise print 0.
 raqam=16
-x=(raqam+1)%2
- 
-print(x)
+print((raqam+1)%2)
